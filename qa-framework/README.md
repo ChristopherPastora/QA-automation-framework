@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧪 QA Automation Framework
+#  QA Automation Framework
 
 ### Framework profesional de automatización · Web + API · Selenium · Pytest · CI/CD
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 📋 Descripción
+##  Descripción
 
 Framework de automatización de pruebas end-to-end diseñado con buenas prácticas de ingeniería de calidad. Cubre pruebas **Web** con Selenium y pruebas de **API REST** con Requests, integrado con un pipeline de CI/CD en GitHub Actions.
 
 ---
 
-## 🏗️ Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 qa-automation-framework/
@@ -48,7 +48,7 @@ qa-automation-framework/
 
 ---
 
-## 🚀 Instalación y uso
+##  Instalación y uso
 
 ### 1. Clonar el repositorio
 ```bash
@@ -82,7 +82,7 @@ pytest --html=reports/report.html --self-contained-html
 
 ---
 
-## 🧩 Patrones y buenas prácticas
+##  Patrones y buenas prácticas
 
 | Patrón | Descripción |
 |--------|-------------|
@@ -94,7 +94,7 @@ pytest --html=reports/report.html --self-contained-html
 
 ---
 
-## 🤖 CI/CD Pipeline
+##  CI/CD Pipeline
 
 Cada push o Pull Request ejecuta automáticamente:
 
@@ -104,7 +104,7 @@ Push/PR → Install deps → Run Web Tests → Run API Tests → Generate Report
 
 ---
 
-## 📊 Cobertura de pruebas
+##  Cobertura de pruebas
 
 - ✅ Login / autenticación web
 - ✅ Flujos de usuario end-to-end
